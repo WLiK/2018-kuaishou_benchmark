@@ -7,4 +7,4 @@
 Kesci上的一份数据分析EDA：https://www.kesci.com/home/project/5b27b37af110337467aeb904  
 
 
-![image](https://github.com/WLiK/2018-kuaishou_benchmark/model_img/model.jpg)
+![image](https://github.com/WLiK/2018-kuaishou_benchmark/blob/master/model_img/model.jpg)
