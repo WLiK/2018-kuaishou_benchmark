@@ -14,7 +14,7 @@
 9.facerate_mean  
 10.text_mean/max(TF-IDF)  
 代码略丑。  
-
+环境要求：python3，tensorflow-gpu1.4.0,keras2.1.2  
 赛题地址：https://www.kesci.com/home/competition/5ad306e633a98340e004f8d1  
 
 Kesci上的一份数据分析EDA：https://www.kesci.com/home/project/5b27b37af110337467aeb904  
